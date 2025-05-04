@@ -1,6 +1,6 @@
 # TDT4265 Mini-Project
 
-This repository contains code developed for the mini-project in the NTNU course **TDT4265 - Visual Intelligence**.
+This repository contains code developed for the mini-project in the NTNU course **TDT4265 - Computer Vision and Deep Learning**.
 
 The project addresses automated tumor segmentation for **Subtask 1 (pre-treatment MRI)** of the Head and Neck Tumor Segmentation for MR-Guided Applications (HNTS-MRG) challenge.
 
